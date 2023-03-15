@@ -1,3 +1,4 @@
+licence.txt
 setup.py
 app/encryptor/__init__.py
 app/encryptor.egg-info/PKG-INFO

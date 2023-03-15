@@ -6,11 +6,12 @@ Home-page: https://github.com/anwar-hasaan/
 Author: Anwar Hasan
 Author-email: anwarhasan202@gmail.com
 License: MIT
-Description: It's a normal text encrypter made with
-        cryptography
-Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Operating System :: OS Independent (Windows[10, 11] Tested)
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+License-File: licence.txt
+
+It's a normal text encrypter made with
+cryptography

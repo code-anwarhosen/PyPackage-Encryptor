@@ -27,7 +27,9 @@ class ENCRYPTOR:
         except Exception as e:
             return False
 
-
+    def KeyLike(self):
+        return b'iDVdwyFn55LCa6JQNJjIjxFdttmGqOIqf7Xrhk3IdOIencryptor'
+        
     def read_key(self, key_or_key_file_path=None):
         """
         if its get key_or_key_file_path as txt file path
@@ -158,5 +160,5 @@ class ENCRYPTOR:
                     return decrypted_data.decode()
         except Exception as e:
             return False
-KEY_Like = b'iDVdwyFn55LCa6JQNJjIjxFdttmGqOIqf7Xrhk3IdOIencryptor'
+
 Encryptor = ENCRYPTOR()

@@ -1,1 +1,1 @@
-from .src.encryption import Encryptor, KEY_Like
+from .src.encryption import Encryptor
